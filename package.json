@@ -1,0 +1,23 @@
+{
+  "name": "panel-maluko",
+  "version": "1.0.0",
+  "description": "Panel personalizado de Juan Busso",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbusso/panel-maluko.git"
+  },
+  "keywords": [
+    "maluko",
+    "panel"
+  ],
+  "author": "Juan Busso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanbusso/panel-maluko/issues"
+  },
+  "homepage": "https://github.com/juanbusso/panel-maluko#readme"
+}
