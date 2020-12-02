@@ -1,0 +1,6 @@
+{
+  "name": "ListAlgoliaFirestore",
+  "version": "1.0.0",
+  "private": false,
+  "main": "List.js"
+}

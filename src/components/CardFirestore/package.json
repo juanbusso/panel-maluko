@@ -1,0 +1,6 @@
+{
+  "name": "CardFirestore",
+  "version": "1.0.0",
+  "private": false,
+  "main": "Card.js"
+}

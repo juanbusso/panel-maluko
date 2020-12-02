@@ -1,0 +1,6 @@
+{
+  "name": "Database",
+  "version": "0.0.0",
+  "main": "database.js",
+  "private": false
+}

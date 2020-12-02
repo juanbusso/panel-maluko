@@ -1,0 +1,6 @@
+{
+  "name": "Charts",
+  "version": "1.0.0",
+  "private": false,
+  "main": "Charts.js"
+}

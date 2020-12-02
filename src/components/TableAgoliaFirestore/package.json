@@ -1,0 +1,6 @@
+{
+  "name": "TableAgoliaFirestore",
+  "version": "1.0.0",
+  "private": false,
+  "main": "Table.js"
+}
